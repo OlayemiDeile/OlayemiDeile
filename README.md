@@ -4,7 +4,6 @@
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise and also with like-minded individuals
 - 📫 Reach me via email olayemideile@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 OlayemiDeile/OlayemiDeile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
